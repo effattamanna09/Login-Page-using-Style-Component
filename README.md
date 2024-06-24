@@ -16,12 +16,13 @@ This project is a simple login page created using React and styled-components. T
    git clone https://github.com/yourusername/Login-Page-using-Style-Component.git
    cd Login-Page-using-Style-Component
    npm install styled-components
-```
-2. Install Tailwind CSS:
- ```sh
+
+
+### Install Tailwind CSS:
+
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
 
-```
+
 ### documentation
 https://tailwindcss.com/docs/guides/vite
