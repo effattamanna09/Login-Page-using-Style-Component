@@ -12,6 +12,7 @@ This project is a simple login page created using React and styled-components. T
 ### Installation
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/yourusername/Login-Page-using-Style-Component.git
    cd Login-Page-using-Style-Component
@@ -19,7 +20,8 @@ This project is a simple login page created using React and styled-components. T
 
 
 ### Install Tailwind CSS:
-
+1. Add Tailwind
+   ```sh
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
 
